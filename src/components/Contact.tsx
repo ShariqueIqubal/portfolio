@@ -39,7 +39,7 @@ const Contact = () => {
 
       setSubmitStatus({
         type: 'success',
-        message: 'Thank you for reaching out! Your message has been received successfully.',
+        message: 'Thank you for reaching out! Your message has been received successfully. You will get the response in this life or the next! 😁',
       });
       setFormData({ name: '', email: '', subject: '', message: '' });
     } catch (error) {
