@@ -15,7 +15,7 @@ const Hero = ({ onContactClick, onProjectsClick }: HeroProps) => {
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-slate-900 mb-6 leading-tight">
             Sharique Iqubal
-            /* <span className="block text-slate-700">Commerce Graduate</span> */
+            {/* <span className="block text-slate-700">Commerce Graduate</span> */}
           </h1>
           <p className="text-xl md:text-2xl text-slate-600 mb-4 font-light">
             Building Career in FInance
