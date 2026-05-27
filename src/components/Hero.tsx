@@ -14,11 +14,11 @@ const Hero = ({ onContactClick, onProjectsClick }: HeroProps) => {
       <div className="container mx-auto px-6 lg:px-12">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-slate-900 mb-6 leading-tight">
-            Finance & Accounting
-            /* <span className="block text-slate-700">Professional</span> */
+            Sharique Iqubal
+            <span className="block text-slate-700">Professional</span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-600 mb-4 font-light">
-            Aspiring High-Impact Finance Leader
+            Building career in finance
           </p>
           <p className="text-lg md:text-xl text-slate-500 mb-12 max-w-2xl mx-auto leading-relaxed">
             Building expertise in financial analysis, accounting systems, and strategic business decision-making
