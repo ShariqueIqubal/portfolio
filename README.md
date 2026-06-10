@@ -1,4 +1,4 @@
-# Professional Finance Portfolio
+# Sharique Iqubal | Professional Finance Portfolio
 
 A modern, responsive portfolio website built for finance and accounting professionals. Features a clean design, smooth interactions, and scalable architecture for future expansion.
 
